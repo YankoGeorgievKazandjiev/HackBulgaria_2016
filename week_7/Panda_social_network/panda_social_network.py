@@ -54,6 +54,6 @@ class PandaSocialNetwork:
             json.dump(data, f)
 
     @staticmethod
-    def load(self, file_name):
+    def load(file_name):
         pass
         # TO BE DON
